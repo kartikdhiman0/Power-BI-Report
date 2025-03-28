@@ -27,6 +27,7 @@ The dashboard utilizes the AdventureWorks dataset, a common sample dataset for s
 ## Tools & Technologies Used
 - **Power BI** for data visualization and dashboard creation.
 - **Power BI** for data transformation and preprocessing.
+- **DAX** for creating Measures and Calculated Columns.
 
 
 ## Future Improvements
